@@ -1,0 +1,19 @@
+body {
+    padding-top: 70px;
+    background-color: #272727;
+}
+
+.image-fundo {
+    background-image: url('../../../images/logo.jpeg'); 
+    background-repeat: no-repeat;  
+    background-attachment: fixed;
+    background-position: center;
+}
+
+p, h1, h2, h3 {
+    color:white;
+}
+
+p {
+    font-size: 17px;
+}
